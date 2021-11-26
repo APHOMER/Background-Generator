@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     font: 'raleway', sans-serif;
     color: rgba(0, 0, 0, 5);
@@ -23,4 +24,31 @@ h3 {
     text-align: center;
     text-transform: uppercase;
     letter-spacing: 0.01em;
+=======
+body {
+    font: 'raleway', sans-serif;
+    color: rgba(0, 0, 0, 5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    top: 15%;
+    background: linear-gradient(to right, red, yellow);
+}
+
+h1 {
+    font: 600 3.5em 'Raleway', san-serif;
+    color: rgba(0, 0, 0, 5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    width: 100%;
+}
+
+h3 {
+    font: 900 1em 'Raleway', sans-serif;
+    color: rgba(0, 0, 0, 5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.01em;
+>>>>>>> 80f974673445010e85bc4818ff8aa7ed42a21e38
 }
